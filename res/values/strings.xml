@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Insensi Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_file">New</string>
+    <string name="brush">Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="save_file">Save</string>
+    <string name="select_color">Select Color</string>
+
+</resources>
